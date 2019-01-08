@@ -1,10 +1,10 @@
-##🦖🐣🦕 Google 🦖🐣🦕
+## 🦖🐣🦕 Google 🦖🐣🦕
 `link`
  
  								VS
  
-##☄️☄️☄️ Quentin Vandecandelaere ☄️☄️☄️
-##🌋🌋🌋 Maxime Hanquier 🌋🌋🌋
+## ☄️☄️☄️ Quentin Vandecandelaere ☄️☄️☄️
+## 🌋🌋🌋 Maxime Hanquier 🌋🌋🌋
 
 
 
