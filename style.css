@@ -1,0 +1,57 @@
+* {
+	font-family: Arial,"sans-serif";
+}
+
+#navbar{
+	display: flex;
+	justify-content: flex-end;
+}
+
+#checkerboard{
+	display:flex;
+}
+
+.element{
+	width: 30px;
+	height: 30px;
+	background-color: blue;
+}
+
+.main{
+	width:50%;
+	min-width: 450px;
+	margin: auto;
+	text-align: center;
+}
+
+#ff{
+	display: flex;
+	/*justify-content: space-around;*/
+}
+
+.ff-element{
+	font-size: 13px;
+	color:#5f6368;
+	padding-left: 20px;
+}
+
+.ff-element:nth-child(3)
+{
+
+    flex: 1;
+
+}
+
+.logo{
+	width: 42%
+}
+
+.inputform{
+	font-size: 16px;
+	width:550px;
+    height: 35px;
+    padding-left: 10px;
+    border-radius: 4px;
+    border-width: 1px
+}
+
