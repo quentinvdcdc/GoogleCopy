@@ -1,5 +1,5 @@
 ## 🦖🐣🦕 Google 🦖🐣🦕
-`https://quentinvdcdc.github.io/GoogleCopy/`
+`[GoogleDinos](https://quentinvdcdc.github.io/GoogleCopy/)`
  
  					VS
  
@@ -8,5 +8,5 @@
 
 
 
-[🔮🔮 TOUT COMPRENDRE 🔮🔮](https://vimeo.com/121005803)
+[🔮🔮 QUI A GAGNÉ ? 🔮🔮](https://vimeo.com/121005803)
 
