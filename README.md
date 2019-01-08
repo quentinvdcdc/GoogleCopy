@@ -1,5 +1,5 @@
 ## 🦖🐣🦕 Google 🦖🐣🦕
-`[GoogleDinos](https://quentinvdcdc.github.io/GoogleCopy/)`
+[GoogleDinos](https://quentinvdcdc.github.io/GoogleCopy/)
  
  					VS
  
