@@ -5,6 +5,11 @@
 body{
   margin: 0px;
 }
+
+a{
+	color:inherit;
+	text-decoration: none;
+}
 .hero{
   height: 100vh;
   display: flex;
@@ -23,6 +28,11 @@ body{
   padding-right: 20px;
   text-decoration: none;
 }
+
+a.headerlink:hover{
+	text-decoration: underline;
+}
+
 .apps{
   width:18px;
   margin: 0 4px 0 4px;
@@ -37,6 +47,12 @@ body{
   margin: 20px 20px 20px 20px;
   border-radius: 2px;
 }
+
+button.signin:hover{
+border: 1px solid #3573D9;
+box-shadow: 0 1px 2px #CCC;
+}
+
 .element{
 	width: 30px;
 	height: 30px;
@@ -70,6 +86,11 @@ body{
 	padding-left: 20px;
   padding-right: 20px;
   text-decoration: none;
+}
+
+a.ff-element:hover{
+	text-decoration: underline;
+	color: #63686D;
 }
 
 .ff-element:nth-child(3){
@@ -117,6 +138,12 @@ margin: 20px 4px 20px 4px;
 border-radius: 2px;
 }
 
+button.summitbutton:hover{
+border: 1px solid #CCC;
+color:#222;
+box-shadow: 0 1px 2px #CCC;
+}
+
 .offered{
   color: #222;
 }
@@ -125,3 +152,9 @@ border-radius: 2px;
   color: #1a0dab;
   text-decoration: none;
 }
+
+a.français:hover{
+	text-decoration: underline;
+}
+
+
